@@ -1,0 +1,44 @@
+h1{
+    color: red;
+    text-align: center;
+    font-size: 60px;
+}
+
+
+p{
+    font-size: 30px;
+    text-indent: 4em;
+}
+.conteiner{
+    text-align: left;
+}
+
+
+
+nav{
+    background-color: aqua;
+}
+
+ul{
+    list-style-type: nome;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: blueviolet;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: nome;
+}
+
+li a:hover{
+    background-color: blue;
+
+}
